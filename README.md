@@ -1,68 +1,78 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=jeki33&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155799662%3Fv%3D4" alt="jeki33 hero visual" />
-</p>
+<div align="center">
 
-<p align="center"><b>jeki33</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Rika&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Frontend%20%C3%97%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" alt="header" />
 
-<p align="center"><a href="https://github.com/jeki33">GitHub</a></p>
+<a href="https://github.com/rika29-r">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=5FE3D2&center=true&vCenter=true&width=520&lines=Membangun+UI+yang+rapi+%26+interaktif;Belajar+keamanan+siber+dan+deteksi+phishing;Suka+mengubah+ide+jadi+proyek+nyata" alt="typing" />
+</a>
 
-<details open>
-<summary><b>📌 Top projects</b></summary>
-<br/>
+</div>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=jeki33&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155799662%3Fv%3D4" alt="jeki33 projects visual" />
-</p>
+---
 
-- [lita-birthday](https://github.com/Jeki33/lita-birthday) · ★ 0
-- [santy-hbd](https://github.com/Jeki33/santy-hbd) · ★ 0
-- [birthday](https://github.com/Jeki33/birthday) · ★ 0
-- [flwr](https://github.com/Jeki33/flwr) · ★ 0
-- [Firework-](https://github.com/Jeki33/Firework-) · ★ 0
-- [flower-name](https://github.com/Jeki33/flower-name) · ★ 0
+## 👋 Tentang Saya
 
-</details>
+- 🎨 Tertarik pada **frontend & UI design** — membuat tampilan yang bersih dan interaktif.
+- 🛡️ Mengeksplorasi **keamanan siber**, terutama deteksi **phishing URL**.
+- 🌱 Sedang belajar: *(isi, mis. React, Python, machine learning)*
+- 📫 Hubungi saya: **harikashry@gmail.com**
 
-<details>
-<summary><b>🧰 Stack</b></summary>
-<br/>
+---
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=jeki33&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155799662%3Fv%3D4" alt="jeki33 stack visual" />
-</p>
+## 🚀 Proyek Unggulan
 
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖼️ <a href="https://github.com/rika29-r/Sol-Slides--UI">Sol-Slides UI</a></h3>
+      <p>Antarmuka slide presentasi berbasis web dengan fokus pada tampilan modern dan pengalaman pengguna yang halus.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎣 <a href="https://github.com/rika29-r/phishing-url-detector">Phishing URL Detector</a></h3>
+      <p>Alat untuk mendeteksi URL phishing dengan menganalisis pola dan struktur URL, sebagai bagian dari upaya meningkatkan keamanan online.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Security-0f2027?style=flat&logo=hackthebox&logoColor=5fe3d2" />
+    </td>
+  </tr>
+</table>
 
-<details>
-<summary><b>📊 By the numbers</b></summary>
-<br/>
+---
 
-<b>7</b> public repositories, <b>0</b> stars, <b>2</b> contributions in the last year, a longest streak of <b>1</b> days and <b>0</b> followers.
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=jeki33&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155799662%3Fv%3D4" alt="jeki33 stats visual" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</details>
+---
 
-<details>
-<summary><b>🟩 Activity</b></summary>
-<br/>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=jeki33&theme=neon" alt="jeki33 contribution activity" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rika29-r&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rika29-r&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-</details>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rika29-r&theme=tokyonight&hide_border=true" />
+</div>
 
-<details>
-<summary><b>👋 Say hello</b></summary>
-<br/>
+---
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=jeki33&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155799662%3Fv%3D4" alt="jeki33 social visual" />
-</p>
+## 🤝 Mari Berkolaborasi
 
-</details>
+<div align="center">
 
-<p align="center"><sub>jeki33 · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+[![Email](https://img.shields.io/badge/Email-5fe3d2?style=for-the-badge&logo=gmail&logoColor=0f2027)](mailto:harikashry@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rika29-r)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
+
+</div>
